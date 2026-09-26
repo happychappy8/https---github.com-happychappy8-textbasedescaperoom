@@ -1,0 +1,9 @@
+def chapter1():
+    print("you wake up in a room having no idea who you are.You sit up and see 3 dors in front of you")
+    choice = input("you see 3 doors in front of you mind you you don't know what is behing them option A look behind door option B look around room")
+    while choice == "A":
+            print("behind the first door you peep through  the key hole and see some starved lionsthey look like they havent eaten for 14 days, behind the second you see some alligators sitting with their beady eyes watching the door, and the third is a misturios white room that seems to have nothing inside")
+            choice2 = input("so what will it be door 1 2 or 3?")
+    if choice2 == "1":
+            print("you quickly walk pass the lions ass they are technigualy dead as they cant survive 14 days without food")
+chapter1
